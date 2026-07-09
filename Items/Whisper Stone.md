@@ -1,3 +1,4 @@
+#item 
 Legends claim the gods communicate through it.
 
 [[Hollae Myritoesa]] says it's needed for the plan. Commanded [[Vergon Shi]] to get it.

@@ -1,0 +1,4 @@
+#player
+Bruise grew up in [[Enlightened Monastery]]and became a renowned monk to his community. He thoroughly enjoyed martial arts and fighting and was the best of the best. As he got older, he noticed corruption and greed consume the monastery he once vowed his life to. Then at the age of 24, his childhood friend [[Hunk]] disappeared overnight.  Bruise asked around and no one knew what had happened. He eventually came forth to [[Vergon Shi]]and began to question him on Hunk's disappearance. Bruise was not met with gratitude nor sympathy; [[Vergon Shi]] insisted on not questioning it or asking about it again or he would be met with execution. From there, Bruise escaped and went on the run. For 3 years he wandered in search of his friend, not afraid to let his fists do the talking.  While Bruise was foraging one night, a mysterious letter offering details on Hunk was left at his cabin doorstep…
+
+The letter is from [[Renae Dewstep]]

@@ -1,5 +1,8 @@
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.hasLink("#npcs")
   - type: table
     name: "#npc"

@@ -1,1 +1,1 @@
-#group #map #character 
+#group #map

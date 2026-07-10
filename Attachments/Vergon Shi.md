@@ -1,4 +1,4 @@
-#villain #npc #character 
+#villain #npc 
 Member of [[Silver Citadel]]
 Monk/Paladin
 Monk of The Enlightened  

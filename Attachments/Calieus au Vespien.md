@@ -1,3 +1,3 @@
-#player  #character
+#player  
 Paladin
 God is [[Malar]]

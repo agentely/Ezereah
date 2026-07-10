@@ -1,2 +1,2 @@
-#npc #character
+#npc
 Wife of [[Wilmur Ostevon]]

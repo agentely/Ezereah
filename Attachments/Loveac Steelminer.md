@@ -1,4 +1,4 @@
-#npc #character
+#npc
 Estranged lover of [[Renae Dewstep]]
 *They still have chemistry but they don’t pursue their relationship because of the pressures of taking down the citadel.* 
 

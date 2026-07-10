@@ -1,6 +1,5 @@
 ---
 tags:
   - location
-  - "#stoneshire"
+  - stoneshire
 ---
-Teneville

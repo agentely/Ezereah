@@ -4,3 +4,4 @@ views:
     filters:
       and:
         - file.hasTag("location")
+        - file.hasTag("stoneshire")

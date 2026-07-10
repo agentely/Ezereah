@@ -1,4 +1,8 @@
-#sessions
+---
+tags:
+  - sessions
+---
+
 
 Arriving at [[Stoneshire]]
 

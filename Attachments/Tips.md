@@ -1,3 +1,4 @@
+#sessions 
 # **Information Hierarchies**  
 **Immediate relevance**  
 *Effects characters now*  

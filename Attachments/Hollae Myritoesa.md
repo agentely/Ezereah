@@ -1,4 +1,4 @@
-#villain #npc 
+#villain #npc #character
 
 A tall, heavier set elf druid in her second century.
 

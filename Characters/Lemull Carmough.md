@@ -1,3 +1,4 @@
+#npc 
 He/Him
 Father of [[Scarra]]
 Owner of The Wandering Fairy. Basically owned by [[Vergon Shi]] because Vergon has hella blackmail on him.  

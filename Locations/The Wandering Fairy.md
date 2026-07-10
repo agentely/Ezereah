@@ -1,4 +1,4 @@
 #location  #clovermore 
-Owned by [[The Silver Citadel/Characters/Inactive/Lemull Carmough]] and [[The Silver Citadel/Characters/Inactive/Scarra]]
+Owned by [[Lemull Carmough]] and [[Scarra]]
 ![[map_13x14.png]]
 ]

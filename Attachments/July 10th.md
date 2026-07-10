@@ -1,5 +1,8 @@
 #sessions
 
-Stables  
+Arriving at [[Stoneshire]]
+
+
+[[Stables ]] 
 Abandoned house  
-Basement of sketchy tavern
+Basement of [[Black Sheep Tavern]]
